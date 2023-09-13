@@ -32,5 +32,11 @@ jobs:
 
 
      # Runs a set of commands using the runners shell
-     - name: Run the default console app
-       run: dotnet run
+     - name: Create test project
+       run: dotnet new nunit
+
+     - name: Show me the test file
+       run: cat UnitTest1.cs
+
+     - name: Run the test
+       run: dotnet test
