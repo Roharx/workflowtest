@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj": {}
+    "C:\\Users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj": {}
   },
   "projects": {
-    "C:\\users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj": {
+    "C:\\Users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj",
+        "projectUniqueName": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj",
         "projectName": "workflowtest",
-        "projectPath": "C:\\users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj",
+        "projectPath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\workflowtest.csproj",
         "packagesPath": "C:\\Users\\balin\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\obj\\",
+        "outputPath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\GitHub\\workflowtest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balin\\AppData\\Roaming\\NuGet\\NuGet.Config",

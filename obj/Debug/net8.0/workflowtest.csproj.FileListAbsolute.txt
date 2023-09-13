@@ -1,0 +1,15 @@
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\bin\Debug\net8.0\workflowtest.exe
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\bin\Debug\net8.0\workflowtest.deps.json
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\bin\Debug\net8.0\workflowtest.runtimeconfig.json
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\bin\Debug\net8.0\workflowtest.dll
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\bin\Debug\net8.0\workflowtest.pdb
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.AssemblyInfoInputs.cache
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.AssemblyInfo.cs
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.csproj.CoreCompileInputs.cache
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.sourcelink.json
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.dll
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\refint\workflowtest.dll
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.pdb
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\workflowtest.genruntimeconfig.cache
+C:\Users\balin\OneDrive\Dokumentumok\GitHub\workflowtest\obj\Debug\net8.0\ref\workflowtest.dll
