@@ -33,7 +33,7 @@ jobs:
 
      # Runs a set of commands using the runners shell
      - name: Create test project
-       run: dotnet new nunit
+       run: dotnet new nunit --force
 
      - name: Show me the test file
        run: cat UnitTest1.cs
